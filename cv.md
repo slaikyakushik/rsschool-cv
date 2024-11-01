@@ -18,3 +18,36 @@
 -   _I want to develop in the direction of web development for further work on projects of different complexity.My goal is to get the necessary knowledge and skills for this. No work experience. One of my strengths is patience._
 
 ---
+
+## Skills
+
+-HTML
+
+-Css
+
+-JavaScript
+
+---
+
+## Сode samples
+
+```function repeatString(str, times) {
+    if (times < 0) {
+        return '';
+    }
+
+    let count = 0;
+    while (count) {
+        return ++str;
+    }
+}
+//console.log(repeatString('A', 5));
+```
+
+## Education
+
+-   _Belarusian State University of Physical Culture_
+
+## English level
+
+-   _A2_
