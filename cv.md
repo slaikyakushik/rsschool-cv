@@ -31,7 +31,8 @@
 
 ## Сode samples
 
-```function repeatString(str, times) {
+```
+function repeatString(str, times) {
     if (times < 0) {
         return '';
     }
@@ -41,7 +42,6 @@
         return ++str;
     }
 }
-//console.log(repeatString('A', 5));
 ```
 
 ## Education
